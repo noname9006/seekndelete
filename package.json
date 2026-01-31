@@ -1,0 +1,20 @@
+{
+  "name": "seekndelete",
+  "version": "1.0.0",
+  "description": "A Discord bot for server admins to quickly search and delete messages by content, user, and time",
+  "main": "seekndelete.js",
+  "scripts": {
+    "start": "node seekndelete.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
